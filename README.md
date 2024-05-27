@@ -1,1 +1,1 @@
-"# journal-web" 
+Journal of Science
